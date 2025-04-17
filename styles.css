@@ -519,7 +519,7 @@ span {
 
 /*About us and Blog Section*/
 #splitSection{
-    min-height: 600px;
+    min-height: 650px;
     min-width: 90%;
     padding-top: 50px;
     display: flex;
