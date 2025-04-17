@@ -627,12 +627,12 @@ span {
 
 #aboutButton{
     position: absolute;
-    top: 630px; /* Adjust as needed */
+    top: 580px; /* Adjust as needed */
     right: 30px; /* Adjust as needed */
     }
 #blogButton{
     position: absolute;
-    top: 630px; /* Adjust as needed */
+    top: 580px; /* Adjust as needed */
     right: 30px; /* Adjust as needed */
 }
 #aboutUsSection, #blogSection {
